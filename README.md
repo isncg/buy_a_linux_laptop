@@ -1,5 +1,6 @@
 ## Intel处理器与核显
 
+Core™
 来源 <https://www.intel.com/content/www/us/en/support/articles/000006778/processors.html>
 <table class="icstable">
     <tbody>
@@ -62,6 +63,499 @@
         <tr>
             <td>2nd Generation Intel® Core™ i7-2xxx Processors</td>
             <td>Intel® HD Graphics 2000/3000</td>
+        </tr>
+    </tbody>
+</table>
+
+Core™ Ultra （Series 2）
+来源：https://www.intel.com/content/www/us/en/ark/products/series/241071/intel-core-ultra-processors-series-2.html
+<table>
+    <thead>
+        <tr>
+            <th>
+                <div>
+                    <div>
+                        <div> Product Name </div>
+                    </div>
+                </div>
+            </th>
+            <th>
+                <div>
+                    <div>
+                        <div> Launch Date </div>
+                    </div>
+                </div>
+            </th>
+            <th>
+                <div>
+                    <div>
+                        <div> Total Cores </div>
+                    </div>
+                </div>
+            </th>
+            <th>
+                <div>
+                    <div>
+                        <div> Max Turbo Frequency </div>
+                    </div>
+                </div>
+            </th>
+            <th>
+                <div>
+                    <div>
+                        <div> Cache </div>
+                    </div>
+                </div>
+            </th>
+            <th>
+                <div>
+                    <div>
+                        <div> GPU Name<small><sup>‡</sup></small> </div>
+                    </div>
+                </div>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 5 Processor 235UA</a> </div>
+            </td>
+            <td> Q3'25 </td>
+            <td> 10 </td>
+            <td> 4.9 GHz </td>
+            <td> 12 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 5 Processor 235A</a> </div>
+            </td>
+            <td> Q3'25 </td>
+            <td> 14 </td>
+            <td> 5 GHz </td>
+            <td> 24 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 5 Processor 235TA</a> </div>
+            </td>
+            <td> Q3'25 </td>
+            <td> 14 </td>
+            <td> 5 GHz </td>
+            <td> 24 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 5 Processor 225</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 10 </td>
+            <td> 4.9 GHz </td>
+            <td> 20 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 5 Processor 225F</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 10 </td>
+            <td> 4.9 GHz </td>
+            <td> 20 MB Intel® Smart Cache </td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 5 Processor 225H</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 14 </td>
+            <td> 4.9 GHz </td>
+            <td> 18 MB Intel® Smart Cache </td>
+            <td> Intel® Arc™ 130T GPU </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 5 Processor 225T</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 10 </td>
+            <td> 4.9 GHz </td>
+            <td> 20 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 5 Processor 225U</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 12 </td>
+            <td> 4.8 GHz </td>
+            <td> 12 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 5 Processor 235</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 14 </td>
+            <td> 5 GHz </td>
+            <td> 24 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 5 Processor 235H</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 14 </td>
+            <td> 5 GHz </td>
+            <td> 18 MB Intel® Smart Cache </td>
+            <td> Intel® Arc™ 140T GPU </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 5 Processor 235HX</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 14 </td>
+            <td> 5.1 GHz </td>
+            <td> 24 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 5 Processor 235T</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 14 </td>
+            <td> 5 GHz </td>
+            <td> 24 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 5 Processor 235U</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 12 </td>
+            <td> 4.9 GHz </td>
+            <td> 12 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 5 Processor 245</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 14 </td>
+            <td> 5.1 GHz </td>
+            <td> 24 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 5 Processor 245HX</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 14 </td>
+            <td> 5.1 GHz </td>
+            <td> 24 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 5 Processor 245T</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 14 </td>
+            <td> 5.1 GHz </td>
+            <td> 24 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 7 Processor 255H</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 16 </td>
+            <td> 5.1 GHz </td>
+            <td> 24 MB Intel® Smart Cache </td>
+            <td> Intel® Arc™ 140T GPU </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 7 Processor 255HX</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 20 </td>
+            <td> 5.2 GHz </td>
+            <td> 30 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 7 Processor 255U</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 12 </td>
+            <td> 5.2 GHz </td>
+            <td> 12 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 7 Processor 265</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 20 </td>
+            <td> 5.3 GHz </td>
+            <td> 30 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 7 Processor 265F</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 20 </td>
+            <td> 5.3 GHz </td>
+            <td> 30 MB Intel® Smart Cache </td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 7 Processor 265H</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 16 </td>
+            <td> 5.3 GHz </td>
+            <td> 24 MB Intel® Smart Cache </td>
+            <td> Intel® Arc™ 140T GPU </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 7 Processor 265HX</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 20 </td>
+            <td> 5.3 GHz </td>
+            <td> 30 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 7 Processor 265T</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 20 </td>
+            <td> 5.3 GHz </td>
+            <td> 30 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 7 Processor 265U</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 12 </td>
+            <td> 5.3 GHz </td>
+            <td> 12 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 9 Processor 275HX</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 24 </td>
+            <td> 5.4 GHz </td>
+            <td> 36 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 9 Processor 285</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 24 </td>
+            <td> 5.6 GHz </td>
+            <td> 36 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 9 Processor 285H</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 16 </td>
+            <td> 5.4 GHz </td>
+            <td> 24 MB Intel® Smart Cache </td>
+            <td> Intel® Arc™ 140T GPU </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 9 Processor 285HX</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 24 </td>
+            <td> 5.5 GHz </td>
+            <td> 36 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 9 Processor 285T</a> </div>
+            </td>
+            <td> Q1'25 </td>
+            <td> 24 </td>
+            <td> 5.4 GHz </td>
+            <td> 36 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 5 Processor 245K</a> </div>
+            </td>
+            <td> Q4'24 </td>
+            <td> 14 </td>
+            <td> 5.2 GHz </td>
+            <td> 24 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 5 Processor 245KF</a> </div>
+            </td>
+            <td> Q4'24 </td>
+            <td> 14 </td>
+            <td> 5.2 GHz </td>
+            <td> 24 MB Intel® Smart Cache </td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 7 Processor 265K</a> </div>
+            </td>
+            <td> Q4'24 </td>
+            <td> 20 </td>
+            <td> 5.5 GHz </td>
+            <td> 30 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 7 Processor 265KF</a> </div>
+            </td>
+            <td> Q4'24 </td>
+            <td> 20 </td>
+            <td> 5.5 GHz </td>
+            <td> 30 MB Intel® Smart Cache </td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 9 Processor 285K</a> </div>
+            </td>
+            <td> Q4'24 </td>
+            <td> 24 </td>
+            <td> 5.7 GHz </td>
+            <td> 36 MB Intel® Smart Cache </td>
+            <td> Intel® Graphics </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 5 Processor 226V</a> </div>
+            </td>
+            <td> Q3'24 </td>
+            <td> 8 </td>
+            <td> 4.5 GHz </td>
+            <td> 8 MB Intel® Smart Cache </td>
+            <td> Intel® Arc™ 130V GPU </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 5 Processor 228V</a> </div>
+            </td>
+            <td> Q3'24 </td>
+            <td> 8 </td>
+            <td> 4.5 GHz </td>
+            <td> 8 MB Intel® Smart Cache </td>
+            <td> Intel® Arc™ 130V GPU </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 5 Processor 236V</a> </div>
+            </td>
+            <td> Q3'24 </td>
+            <td> 8 </td>
+            <td> 4.7 GHz </td>
+            <td> 8 MB Intel® Smart Cache </td>
+            <td> Intel® Arc™ 130V GPU </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 5 Processor 238V</a> </div>
+            </td>
+            <td> Q3'24 </td>
+            <td> 8 </td>
+            <td> 4.7 GHz </td>
+            <td> 8 MB Intel® Smart Cache </td>
+            <td> Intel® Arc™ 130V GPU </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 7 Processor 256V</a> </div>
+            </td>
+            <td> Q3'24 </td>
+            <td> 8 </td>
+            <td> 4.8 GHz </td>
+            <td> 12 MB Intel® Smart Cache </td>
+            <td> Intel® Arc™ 140V GPU </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 7 Processor 258V</a> </div>
+            </td>
+            <td> Q3'24 </td>
+            <td> 8 </td>
+            <td> 4.8 GHz </td>
+            <td> 12 MB Intel® Smart Cache </td>
+            <td> Intel® Arc™ 140V GPU </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 7 Processor 266V</a> </div>
+            </td>
+            <td> Q3'24 </td>
+            <td> 8 </td>
+            <td> 5 GHz </td>
+            <td> 12 MB Intel® Smart Cache </td>
+            <td> Intel® Arc™ 140V GPU </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 7 Processor 268V</a> </div>
+            </td>
+            <td> Q3'24 </td>
+            <td> 8 </td>
+            <td> 5 GHz </td>
+            <td> 12 MB Intel® Smart Cache </td>
+            <td> Intel® Arc™ 140V GPU </td>
+        </tr>
+        <tr>
+            <td>
+                <div> <a>Intel® Core™ Ultra 9 Processor 288V</a> </div>
+            </td>
+            <td> Q3'24 </td>
+            <td> 8 </td>
+            <td> 5.1 GHz </td>
+            <td> 12 MB Intel® Smart Cache </td>
+            <td> Intel® Arc™ 140V GPU </td>
         </tr>
     </tbody>
 </table>
